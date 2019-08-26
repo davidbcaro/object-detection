@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RC</folder>
+	<filename>Img0098.jpg</filename>
+	<path>C:\Users\USER\Desktop\RC\Img0098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>298</ymin>
+			<xmax>249</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

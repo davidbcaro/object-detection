@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RC2</folder>
+	<filename>Img0848.jpg</filename>
+	<path>/media/david/74E483B4E4837760/RC2/Img0848.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>330</ymin>
+			<xmax>239</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
